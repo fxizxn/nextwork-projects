@@ -11,6 +11,8 @@
 
 #### NextWork Student NextWork.org
 
+![image](1.png)
+
 ## Introducing Today's Project!
 
 ### What is VSCode and why is it useful?
@@ -68,6 +70,8 @@ key pair that will need to access EC2 instance
 
 ## Set up VSCode
 
+![image](2.png)
+
 VSCode is an IDE (Integrated Development Environment). It's software for
 editing and creating code.
 
@@ -88,6 +92,7 @@ I also updated my private key's permissions by "icacls nextwork-keypair.pem.""
 /reset icacls "nextwork-keypair.pem" /grant:r "%USERNAME%:R" icacls
 "nextwork-keypair.pem" /inheritance:r"
 
+![image](3.png)
 
 #### NextWork Student NextWork.org
 
@@ -104,6 +109,7 @@ instance]. Ensure that the keypair.pem has read permission enabled.
 A server's IPv4 DNS is its public address. Computers/servers connected to the
 The internet can use public IPv4 DNS to find and locate another server.
 
+![image](4.png)
 
 #### NextWork Student NextWork.org
 
@@ -143,6 +149,7 @@ private key on our local computer, and the SSH host's user that we are
 connecting to are configuration details needed to establish a remote
 connection.
 
+![image](5.png)
 
 #### NextWork Student NextWork.org
 
@@ -157,6 +164,7 @@ webapp is a subfolder of src that concentrates on what the user would see, src
 contains all of the web application's source code that determines the look and
 feel of the web app.
 
+![image](7.png)
 
 #### NextWork Student NextWork.org
 
@@ -171,13 +179,3 @@ instance and VSCode. We can use VSCode as a local IDE for our instance.
 
 
 ### NextWork.org
-
-# Everyone
-
-# should be in a
-
-# job they love.
-
-## Check out nextwork.org for
-
-## More projects
